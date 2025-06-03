@@ -1,0 +1,13 @@
+timestamp,detected_mood,post_mood_rating,supported,user_comment
+2025-06-03 10:51:08,stressed,5,Yes,great
+2025-06-03 11:31:57,happy,3,Yes,ddd,
+2025-06-03 11:32:07,happy,5,Yes,ddd,
+2025-06-03 11:32:57,sad,5,Yes,ddd,none
+2025-06-03 11:41:13,sad,Yes,no
+2025-06-03 11:41:38,neutral,Yes,
+2025-06-03 11:42:55,stressed,Yes,
+2025-06-03 11:53:43,stressed,5,Yes,no
+2025-06-03 12:12:20,sad,5,Yes,no
+2025-06-03 12:17:35,happy,5,Yes,no
+2025-06-03 12:18:46,stressed,5,Yes,no
+2025-06-03 12:22:20,neutral,5,Yes,no
