@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 from textblob import TextBlob
 import pandas as pd
@@ -186,7 +185,6 @@ if st.button("Reset"):
         st.experimental_rerun()
     except AttributeError:
         st.write("Please refresh the page to complete the reset.")
-=======
 import streamlit as st
 from textblob import TextBlob
 import pandas as pd
@@ -374,4 +372,3 @@ if st.button("Reset"):
         st.experimental_rerun()
     except AttributeError:
         st.write("Please refresh the page to complete the reset.")
->>>>>>> 28c9523c63f2533ebb0f7987f7bd9114f2009140
