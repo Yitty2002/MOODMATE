@@ -1,0 +1,90 @@
+timestamp,user_input,polarity,mood
+2025-05-29 17:34:20,sad,-0.5,sad
+2025-05-29 22:48:30,sad,-0.5,sad
+2025-05-29 22:49:20,happy,0.8,happy
+2025-05-29 22:53:27,tired,-0.4,sad
+2025-05-29 22:53:39,stressed,0.0,neutral
+2025-05-29 22:54:21,neutral,0.0,neutral
+2025-05-29 23:18:33,stressed,0.0,neutral
+2025-05-29 23:18:46,sad,-0.5,sad
+2025-05-29 23:18:53,tired,-0.4,sad
+2025-05-29 23:19:11,stressed,0.0,neutral
+2025-05-29 23:37:01,I am feeling overwhelmed by life,0.0,stressed
+2025-05-29 23:37:29,happy,0.8,happy
+2025-05-29 23:37:43,sad,-0.5,sad
+2025-05-29 23:37:49,tired,-0.4,sad
+2025-05-29 23:48:25,stressed,0.0,stressed
+2025-05-29 23:53:23,anxious and stressed,-0.25,sad
+2025-05-29 23:53:39,stressed,0.0,stressed
+2025-05-29 23:56:55,stressed,0.0,stressed
+2025-05-29 23:58:55,i'm stressed,0.0,stressed
+2025-05-29 23:59:17,I feel overwhelmed and stressed.,0.0,stressed
+2025-05-30 23:43:59,I'm stressed and overwhelmed,0.0,stressed
+2025-05-30 23:49:02,I'm sad,-0.5,sad
+2025-05-30 23:49:12,I'm happy,0.8,happy
+2025-05-30 23:49:39,I'm feeiling neutral,0.0,neutral
+2025-05-31 00:20:33,I'm stressed,0.0,stressed
+2025-05-31 00:20:58,stressed,0.0,stressed
+2025-05-31 00:21:19,stressed,0.0,stressed
+2025-05-31 00:21:23,stressed,0.0,stressed
+2025-05-31 00:30:36,I'm stressed,0.0,stressed
+2025-05-31 00:38:10,I'm stressed,0.0,stressed
+2025-05-31 00:52:15,I'm feeling sad,-0.5,sad
+2025-05-31 00:53:17,I'm feeling sad,-0.5,sad
+2025-05-31 00:56:24,I'm feeling sad,-0.5,sad
+2025-05-31 00:59:18,I'm sad,-0.5,sad
+2025-05-31 01:01:55,i'm sad,-0.5,sad
+2025-05-31 01:22:37,sad,-0.5,sad
+2025-06-03 09:51:17,I'm feeling tired and exhausted,-0.4,sad
+2025-06-03 10:01:49,i feel so bored and tired,-0.45,sad
+2025-06-03 10:02:04,i feel happy,0.8,happy
+2025-06-03 10:31:11,I'm feeling overwhelmed by this project,0.0,stressed
+2025-06-03 10:31:51,I'm feeling overwhelmed by this project,0.0,stressed
+2025-06-03 10:31:55,I'm feeling overwhelmed by this project,0.0,stressed
+2025-06-03 10:32:12,I'm feeling overwhelmed by this project,0.0,stressed
+2025-06-03 10:37:46,I feel overwhelmed,0.0,stressed
+2025-06-03 10:39:20,I feel overwhelmed,0.0,stressed
+2025-06-03 10:45:49,overwhelmed,0.0,stressed
+2025-06-03 10:50:45,overwhelmed,0.0,stressed
+2025-06-03 10:51:28,overwhelmed,0.0,stressed
+2025-06-03 10:52:00,happy,0.8,happy
+2025-06-03 10:52:35,tired,-0.4,sad
+2025-06-03 10:52:57,sad,-0.5,sad
+2025-06-03 11:02:58,happy,0.8,happy
+2025-06-03 11:05:01,overwhelmed,0.0,stressed
+2025-06-03 11:05:22,sad,-0.5,sad
+2025-06-03 11:11:08,happy,0.8,happy
+2025-06-03 11:11:40,Neutral,0.0,neutral
+2025-06-03 11:12:18,anxious,-0.25,sad
+2025-06-03 11:13:09,bored,-0.5,sad
+2025-06-03 11:13:29,stressed,0.0,stressed
+2025-06-03 11:26:24,happy,0.8,happy
+2025-06-03 11:26:39,sad,-0.5,sad
+2025-06-03 11:27:03,stressed,0.0,stressed
+2025-06-03 11:31:49,happy,0.8,happy
+2025-06-03 11:32:15,angry,-0.5,sad
+2025-06-03 11:33:08,stressed,0.0,stressed
+2025-06-03 11:34:18,sad,-0.5,sad
+2025-06-03 11:34:48,neutral,0.0,neutral
+2025-06-03 11:36:41,I'm stressed,0.0,stressed
+2025-06-03 11:39:31,happy,0.8,happy
+2025-06-03 11:40:22,sad,-0.5,sad
+2025-06-03 11:40:33,sad,-0.5,sad
+2025-06-03 11:41:27,neutral,0.0,neutral
+2025-06-03 11:41:48,tired,-0.4,sad
+2025-06-03 11:42:11,overwhelmed,0.0,stressed
+2025-06-03 11:44:52,neutral,0.0,neutral
+2025-06-03 11:45:02,neutral,0.0,neutral
+2025-06-03 11:52:25,stressed,0.0,stressed
+2025-06-03 11:57:59,i am feeling happy,0.8,happy
+2025-06-03 11:59:41,i am feeling sad,-0.5,sad
+2025-06-03 12:00:03,i am feeling sad,-0.5,sad
+2025-06-03 12:00:40,i am feeling sad,-0.5,sad
+2025-06-03 12:00:41,i am feeling sad,-0.5,sad
+2025-06-03 12:00:57,i am feeling sad,-0.5,sad
+2025-06-03 12:02:19,sad,-0.5,sad
+2025-06-03 12:11:27,sad,-0.5,sad
+2025-06-03 12:17:22,good,0.7,happy
+2025-06-03 12:17:48,stressed,0.0,stressed
+2025-06-03 12:22:11,neutral,0.0,neutral
+2025-06-03 20:55:58,stressed,0.0,stressed
